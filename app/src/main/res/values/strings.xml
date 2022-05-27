@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LearnCompose</string>
+    <string name="learn_compose">Learning Compose</string>
 </resources>
