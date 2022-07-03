@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">LearnCompose</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_mobile_number_hint">10 digit Mobile Number</string>
+    <string name="send_otp">Send Otp</string>
+    <string name="label_error">Something went wrong.</string>
+    <string name="label_reload">Reload</string>
+    <string name="label_otp_sent_success">Otp send success</string>
 </resources>
